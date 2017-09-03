@@ -22,6 +22,7 @@
 		59F614E01F5CA6A300A964E4 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		59F614E31F5CA6A300A964E4 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		59F614E51F5CA6A300A964E4 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		59F614ED1F5CA7A500A964E4 /* hustle-on.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; name = "hustle-on.wav"; path = "../../../../../../Downloads/hustle-mode-code-assets/assets/Assets/hustle-on.wav"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -74,6 +75,7 @@
 		59F614EC1F5CA6BF00A964E4 /* ViewControllers */ = {
 			isa = PBXGroup;
 			children = (
+				59F614ED1F5CA7A500A964E4 /* hustle-on.wav */,
 				59F614DB1F5CA6A300A964E4 /* ViewController.swift */,
 				59F614DD1F5CA6A300A964E4 /* Main.storyboard */,
 			);
